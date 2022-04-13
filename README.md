@@ -1,16 +1,22 @@
-### Hi there 👋
+## About Me
 
-<!--
-**Yusei-Yusec/Yusei-Yusec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ID: Yusei
 
-Here are some ideas to get you started:
+Team: wu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+公众号：无
+
+研究方向：Web 渗透、移动安全、代码审计、应急响应、内网渗透、区块链安全
+
+## Github Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunJ3t)](https://github.com/anuraghazra/github-readme-stats)
+
+## Vulnerability list
+### CVE list
+
+- None
+
+### CNVD list
+
+- None
